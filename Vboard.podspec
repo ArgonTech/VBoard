@@ -15,6 +15,6 @@ s.framework = "UIKit"
 s.dependency 'SDWebImage', '~>3.7'
 s.dependency "YoutubePlayer-in-WKWebView", "~> 0.2.0"
 s.source_files = "VboardFramework/**/*"
-s.resources = "VboardFramework/**/*.{png,jpeg,jpg,storyboard,xib,xcassets}"
+s.resources = "VboardFramework/**/*.{png,jpeg,jpg,storyboard}"
 
 end
